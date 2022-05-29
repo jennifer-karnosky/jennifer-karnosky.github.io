@@ -1,10 +1,18 @@
-# The Cayman theme
+#  Jennifer Karnosky
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+*Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. 🌱 I’m currently learning the language of business analytics in the **Competing Through Business Analytics** and hope to embark on my analytics journey with a strong portfolio that includes:
+- ✨ Strong Execution of the BA process
+- ✨ Python Proficiency
+- ✨ Data Visualization and Presentation
+- ✨ R Programming 
+- ✨ XML, JSON, and HTML Web Scraping
+- ✨ Algorithm Development
 
-![Thumbnail of Cayman](thumbnail.png)
+
+
+
 
 ## Usage
 
