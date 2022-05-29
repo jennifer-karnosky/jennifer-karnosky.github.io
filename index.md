@@ -7,7 +7,7 @@ Description: A collection of choice calculations, communications, and critical e
 
 
 
-![WilliamsburgJBK](https://user-images.githubusercontent.com/106441386/170880268-2b1a51d6-a1e3-4d48-b9a9-29c63c745970.jpg)
+![My Picture](/pics/WilliamsburgJBK.jpg)
 
 
 *Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. 🌱 I’m currently learning the language of business analytics in **Competing Through Business Analytics** and hope to embark on my analytics journey with a strong portfolio that includes:*
