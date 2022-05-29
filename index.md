@@ -21,3 +21,8 @@ Description: A collection of choice calculations, communications, and critical e
 
 
 - 👯 I’m always looking for opportunities to collaborate, learn, and gain hands on experience. If you have openings to join a project involving any of the skills I listed, I'd love to dedicate my time to the process. I believe experiential learning is the best avenue to mastery.
+
+- 🔭 I’m currently working on a critical examination of the mass shootings in America:
+
+- [Fatal Shootings (html)](MassShootingData.hmtl)
+- [Fatal Shootings (ipynb)](MassShootingData.ipynb)
