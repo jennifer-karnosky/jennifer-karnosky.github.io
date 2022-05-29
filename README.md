@@ -1,7 +1,7 @@
 # jennifer-karnosky.github.io
 My Portfolio
 
-*Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. 🌱 I’m currently learning the language of business analytics in the **Competing Through Business Analytics** and hope to embark on my analytics journey with a strong portfolio that includes:*
+*Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. 🌱 I’m currently learning the language of business analytics in **Competing Through Business Analytics** and hope to embark on my analytics journey with a strong portfolio that includes:*
 
 - ✨ Strong Execution of the BA process
 - ✨ Python Proficiency
