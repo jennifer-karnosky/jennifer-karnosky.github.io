@@ -24,5 +24,4 @@ Description: A collection of choice calculations, communications, and critical e
 
 - 🔭 I’m currently working on a critical examination of the mass shootings in America:
 
-- [Fatal Shootings (html)](/massShootings/MassShootingData.hmtl)
-- [Fatal Shootings (ipynb)](/massShootings/MassShootingData.ipynb)
+- [Mass Shooting Examination](/massShootings/index.md)
