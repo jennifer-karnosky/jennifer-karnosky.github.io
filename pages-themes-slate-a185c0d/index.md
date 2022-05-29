@@ -1,5 +1,6 @@
 ---
-layout: default
+Title: Karnosky Compendium
+Description: A collection of choice calculations, communications, and critical examinations.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
