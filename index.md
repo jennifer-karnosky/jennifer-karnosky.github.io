@@ -24,4 +24,4 @@ Description: A collection of choice calculations, communications, and critical e
 
 - 🔭 I’m currently working on a critical examination of the mass shootings in America:
 
-- [Mass Shooting Examination](/massShootings/index.md)
+- [US Mass Shooting Visualization](/massShootings/index.md)
