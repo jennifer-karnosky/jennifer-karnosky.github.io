@@ -20,9 +20,9 @@ Description: A collection of choice calculations, communications, and critical e
 - ✨ Algorithm Development
 
 
-- 👯 I’m always looking for opportunities to collaborate, learn, and gain hands on experience. If you have openings to join a project involving any of the skills I listed, I'd love to dedicate my time to the process. I believe experiential learning is the best avenue to mastery.
+👯 I’m always looking for opportunities to collaborate, learn, and gain hands on experience. If you have openings to join a project involving any of the skills I listed, I'd love to dedicate my time to the process. I believe experiential learning is the best avenue to mastery.
 
-<img src="https://user-images.githubusercontent.com/106441386/184271358-b4b9ff10-0484-4467-95e8-d73a2593538d.gif" width="250" height"250"/>
+
 - 💉 Here is an interactive dashboard that looks at Covid-19 Vaccinations in Virginia by Race and Ethnicity. The data set used for the visualization is from the Virginia Departmant of Health.
 - 
 
