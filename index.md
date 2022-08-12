@@ -24,7 +24,7 @@ Description: A collection of choice calculations, communications, and critical e
 
 
 - 💉 Here is an interactive dashboard that looks at Covid-19 Vaccinations in Virginia by Race and Ethnicity. The data set used for the visualization is from the Virginia Departmant of Health.
-- 
+- [Virginia COVID-19 Vaccination Visualization](/vaccinations/index.md)
 
 - 🔭 I’m currently working on a critical examination of the mass shootings in America:
 
