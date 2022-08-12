@@ -10,7 +10,7 @@ Description: A collection of choice calculations, communications, and critical e
 ![My Picture](/pics/WilliamsburgJBK.jpg)
 
 
-*Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. 🌱 I’m currently learning the language of business analytics in **Competing Through Business Analytics** and hope to embark on my analytics journey with a strong portfolio that includes:*
+*Hello! My name is Jennifer Karnosky, and this page is underconstruction. I will be adding content to showcase new skills learned in the MS in Business Analytics (BA) program at the College of William and Mary. My hope is to embark on my analytics journey with a strong portfolio that includes:*
 
 - ✨ Strong Execution of the BA process
 - ✨ Python Proficiency
@@ -21,6 +21,10 @@ Description: A collection of choice calculations, communications, and critical e
 
 
 - 👯 I’m always looking for opportunities to collaborate, learn, and gain hands on experience. If you have openings to join a project involving any of the skills I listed, I'd love to dedicate my time to the process. I believe experiential learning is the best avenue to mastery.
+
+- ![CovidCovid19GIF](https://user-images.githubusercontent.com/106441386/184271358-b4b9ff10-0484-4467-95e8-d73a2593538d.gif)
+- 💉 Here is an interactive dashboard that looks at Covid-19 Vaccinations in Virginia by Race and Ethnicity. The data set used for the visualization is from the Virginia Departmant of Health.
+- 
 
 - 🔭 I’m currently working on a critical examination of the mass shootings in America:
 
